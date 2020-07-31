@@ -1,5 +1,5 @@
 
-# Hello there! 🚀  <a href="https://dburov.com" target="_blank"><img src="media/db_logo.png" align="right" width="90" /></a>
+# Hello there! 🚀  <a href="https://dburov.com" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="90" /></a>
 
 Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Back-end Developer from Russia, and I am working on web applications and web infrastructure.
 
@@ -9,7 +9,7 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 
 <br >
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="media/bear_dance.gif" align="right" width="80" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/bear_dance.gif" align="right" width="80" /></a>
 
 <br >
 
