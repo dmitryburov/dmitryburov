@@ -9,7 +9,7 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 
 <br >
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/bear_dance.gif" align="right" width="80" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/bear_dance.gif" align="right" width="80" title="Click me ;)" /></a>
 
 <br >
 
