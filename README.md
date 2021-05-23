@@ -1,12 +1,11 @@
-
-# Hello there! 🚀  <a href="https://dburov.com" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="90" /></a>
+## Hi there 👋 my name is Dmitry and I am from Russia, happy to see you here!
 
 Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Back-end Developer from Russia, and I am working on web applications and web infrastructure.
 
-- 👨🏻‍💻 I’m currently working on A B2B Sale Platform for partners at company
-- 💪 I’m currently learning, Go and Algorithms
-- 💡 Fun fact: I love snowboarding 🏂
-
+- 👨🏻‍💻 I am working on b2b Sales Platform for partners at company
+- 💪 I am currently learning, Go and Algorithms
+- 💡 Fun fact: I like it snowboarding 🏂
+- 
 <br >
 
 <a href="https://dburov.com/~nggyu"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/bear_dance.gif" align="right" width="80" title="Click me ;)" /></a>
