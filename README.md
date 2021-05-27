@@ -8,7 +8,7 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 
 - 💡 Fact No 1: I like snowboarding 🏂
 
-- 💡 Fact No 2: I hate inaction!
+- 💡 Fact No 2: I hate idleness!
 
 - 💡 Fact No 3: I love photography
 
