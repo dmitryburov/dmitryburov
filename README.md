@@ -3,7 +3,6 @@
 Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Back-end Developer from Russia, and I am working on web applications and web infrastructure.
 
 - 👨🏻‍💻 I am working on b2b Sales Platform for partners at company
-
 - 💪 I am currently learning, Go and Algorithms
 - 💡 Fact No 1: I like snowboarding 🏂
 - 💡 Fact No 2: I hate idleness!
