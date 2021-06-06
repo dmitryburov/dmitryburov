@@ -16,7 +16,7 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 - [Instagram](https://instagram.com/diburov)
 - [Website](https://dburov.com)
 
-## My skills 🚀
+## My stack 🚀
 ![GO](https://img.shields.io/badge/GoLang-12312?style=for-the-badge&logo=go&logoColor=white&color=7fd5ea)
 ![PHP](https://img.shields.io/badge/PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![VUE](https://img.shields.io/badge/VueJS-FF2D20?style=for-the-badge&logo=vue-dot-js&logoColor=white&color=4fc08d)
