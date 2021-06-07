@@ -17,7 +17,7 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 - [Website](https://dburov.com)
 
 ## My stack 🚀
-![GO](https://img.shields.io/badge/GoLang-12312?style=for-the-badge&logo=go&logoColor=white&color=7fd5ea)
+![GO](https://img.shields.io/badge/GoLang-FF2D20?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![VUE](https://img.shields.io/badge/VueJS-FF2D20?style=for-the-badge&logo=vue-dot-js&logoColor=white&color=4fc08d)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,4 +36,4 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 ![rabbitmq](https://img.shields.io/badge/RabbitMQ-ffffff?style=for-the-badge&logo=rabbitmq&color=FF6600&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&color=333333&logoColor=ffffff)
 ![ELK](https://img.shields.io/badge/ELK-ffffff?style=for-the-badge&logo=elasticsearch&color=0077cc&logoColor=white)
-![GQL](https://img.shields.io/badge/GRAPHQL-ff7bd4?style=for-the-badge&logo=graphql&color=f1f1f1&logoColor=ff7bd4)
+![GQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&color=ff7bd4&logoColor=ffffff)
