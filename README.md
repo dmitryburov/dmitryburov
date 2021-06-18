@@ -40,4 +40,3 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 ![ALGOLIA](https://img.shields.io/badge/ALGOLIA-ffffff?style=for-the-badge&logo=algolia&color=5468ff&logoColor=ffffff)
 ![GQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&color=ff7bd4&logoColor=ffffff)
 ![JETBRAINS](https://img.shields.io/badge/Jet%20Brains-00C58E?style=for-the-badge&logo=jetbrains&color=000000&logoColor=ffffff)
-![KAFKA](https://img.shields.io/badge/APACHE%20KAFKA-000000?style=for-the-badge&logo=apachekafka&color=f1f1f1&logoColor=000000)
