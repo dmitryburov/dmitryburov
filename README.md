@@ -17,10 +17,11 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 - [Website](https://dburov.com)
 
 ## My stack 🚀
-![GO](https://img.shields.io/badge/GoLang-FF2D20?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)
+![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![VUE](https://img.shields.io/badge/VueJS-FF2D20?style=for-the-badge&logo=vuedotjs&logoColor=white&color=4fc08d)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NUXT](https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -36,4 +37,7 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 ![rabbitmq](https://img.shields.io/badge/RabbitMQ-ffffff?style=for-the-badge&logo=rabbitmq&color=FF6600&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&color=333333&logoColor=ffffff)
 ![ELK](https://img.shields.io/badge/ELK-ffffff?style=for-the-badge&logo=elasticsearch&color=0077cc&logoColor=white)
+![ALGOLIA](https://img.shields.io/badge/ALGOLIA-ffffff?style=for-the-badge&logo=algolia&color=5468ff&logoColor=ffffff)
 ![GQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&color=ff7bd4&logoColor=ffffff)
+![JETBRAINS](https://img.shields.io/badge/Jet%20Brains-00C58E?style=for-the-badge&logo=jetbrains&color=000000&logoColor=ffffff)
+![KAFKA](https://img.shields.io/badge/APACHE%20KAFKA-000000?style=for-the-badge&logo=apachekafka&color=f1f1f1&logoColor=000000)
