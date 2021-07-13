@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/hi.gif" width="30px"> I'm Dmitry, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="90" /></a>
+# Hi there! <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/hi.gif" width="30px"> I'm Dmitry, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="80" /></a>
 
 Hey guys, welcome to my GitHub profile!<br>
 
@@ -13,15 +13,16 @@ I'm [Dmitry Burov](https://dburov.com/?from=github) experienced and result-orien
 
 ### Let's talk more:
 
+<a href="https://dburov.com/?from=github">
+    <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/dance.gif" align="right" width="120" title="The secret is here ;)" />
+</a>
+
 - [LinkedIn](https://linkedin.com/in/d-burov)
 - [Telegram](https://t.me/dburov)
 - [Medium](https://medium.com/@burov)
 - [Instagram](https://instagram.com/diburov)
 - [Website](https://dburov.com)
 
-<a href="https://dburov.com/?from=github">
-    <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/dance.gif" align="right" width="120" title="Click me ;)" />
-</a><br />
 
 ## My stack 🚀
 ![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)
