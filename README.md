@@ -2,7 +2,7 @@
 
 Hey guys, welcome to my GitHub profile!<br>
 
-### About
+### About me
 I'm [Dmitry Burov](https://dburov.com/?from=github) experienced and result-oriented Full Stack Engineer from Russia (Moscow), and I am working on web applications and web infrastructure.
 
 - :man_technologist: I’m currently working on B2B Sales Platform
@@ -13,7 +13,7 @@ I'm [Dmitry Burov](https://dburov.com/?from=github) experienced and result-orien
 
 ### Let's talk more:
 
-<a href="https://dburov.com/?from=github">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
     <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/dance.gif" align="right" width="120" title="The secret is here ;)" />
 </a>
 
