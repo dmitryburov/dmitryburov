@@ -1,20 +1,27 @@
-## Hi there 👋 my name is Dmitry and I am from Russia, happy to see you here!
+# Hi there! <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/hi.gif" width="30px"> I'm Dmitry, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="90" /></a>
 
-Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Back-end Developer from Russia, and I am working on web applications and web infrastructure.
+Hey guys, welcome to my GitHub profile!<br>
 
-- 👨🏻‍💻 I am working on b2b Sales Platform for partners at company
-- 💪 I am currently learning, Go and Algorithms
-- 💡 Fact No 1: I like snowboarding 🏂
-- 💡 Fact No 2: I hate idleness!
-- 💡 Fact No 3: I love photography
+### About
+I'm [Dmitry Burov](https://dburov.com/?from=github) experienced and result-oriented Full Stack Engineer from Russia (Moscow), and I am working on web applications and web infrastructure.
 
-#### Find me around the web 🌍
+- :man_technologist: I’m currently working on B2B Sales Platform
+- :muscle: I'm currently learning Algorithms and DDD principles
+- :handshake: I'm looking to collaborate on Open Source projects
+- :thought_balloon: Ask me about anything related to tech, I would love to share my thoughts
+- :zap: Fun fact: I am love snowboarding & photography
+
+### Let's talk more:
 
 - [LinkedIn](https://linkedin.com/in/d-burov)
 - [Telegram](https://t.me/dburov)
 - [Medium](https://medium.com/@burov)
 - [Instagram](https://instagram.com/diburov)
 - [Website](https://dburov.com)
+
+<a href="https://dburov.com/?from=github">
+    <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/dance.gif" align="right" width="120" title="Click me ;)" />
+</a><br />
 
 ## My stack 🚀
 ![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)
@@ -40,3 +47,11 @@ Hi, I'm [Dmitry Burov](https://dburov.com) experienced and result-orientired Bac
 ![ALGOLIA](https://img.shields.io/badge/ALGOLIA-ffffff?style=for-the-badge&logo=algolia&color=5468ff&logoColor=ffffff)
 ![GQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&color=ff7bd4&logoColor=ffffff)
 ![JETBRAINS](https://img.shields.io/badge/Jet%20Brains-00C58E?style=for-the-badge&logo=jetbrains&color=000000&logoColor=ffffff)
+
+<div align="center">
+
+[![ContributionStatus](https://activity-graph.herokuapp.com/graph?username=dmitryburov&theme=dracula&bg_color=00000000&color=878787&line=4c8ed959&point=2188ff59&area=true&area_color=4c8ed9&hide_border=true)](https://github.com/dmitryburov)
+<br>
+<img width="370px" src="https://github-readme-stats.vercel.app/api?username=dmitryburov&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+<img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitryburov&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br>
+</div>
