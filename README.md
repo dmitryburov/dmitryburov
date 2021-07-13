@@ -11,11 +11,11 @@ I have experience in developing web services, applications, microservices, e-com
 I devote time not only to work, but also to learning new languages, technologies, attending conferences (participation) and technical literature.
 Open to business contacts and new acquaintances =)
 
-- :man_technologist: I’m currently working on B2B Sales Platform
-- :muscle: I'm learning Algorithms, Clean Architecture & DDD principles
-- :handshake: I'm looking to collaborate on Open Source projects
-- :thought_balloon: Ask me about anything related to tech, I would love to share my thoughts
-- :zap: Fun fact: I am love snowboarding & photography
+:man_technologist: &nbsp; I’m currently working on B2B Sales Platform<br>
+:muscle: &nbsp; I'm learning Algorithms, Clean Architecture & DDD principles<br>
+:handshake: &nbsp; I'm looking to collaborate on Open Source projects<br>
+:thought_balloon: &nbsp; Ask me about anything related to tech, I would love to share my thoughts<br>
+:zap: &nbsp; Fun fact: I am love snowboarding & photography
 
 ### Let's talk more:
 
