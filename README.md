@@ -58,9 +58,9 @@ Open to business contacts and new acquaintances =)
 
 <div align="center">
 
-[![ContributionStatus](https://activity-graph.herokuapp.com/graph?username=dmitryburov&theme=dracula&bg_color=00000000&color=878787&line=4c8ed959&point=2188ff59&area=true&area_color=4c8ed9&hide_border=true)](#)
+[![ContributionStatus](https://activity-graph.herokuapp.com/graph?username=dmitryburov&theme=dracula&bg_color=00000000&color=878787&line=58A6FEA3&point=2188ff59&area=true&area_color=4c8ed9&hide_border=true)](#)
 
 <br>
 <a href="#"><img width="370px" src="https://github-readme-stats.vercel.app/api?username=dmitryburov&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" /></a>
-<a href="#"><img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitryburov&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /></a><br>
+<a href="#"><img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitryburov&background=00000000&hide_border=true&stroke=878787&ring=58a6fe&fire=58a6fe&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /></a><br>
 </div>
