@@ -25,7 +25,6 @@ Open to business contacts and new acquaintances =)
 
 - [LinkedIn](https://linkedin.com/in/d-burov)
 - [Telegram](https://t.me/dburov)
-- [Medium](https://medium.com/@burov)
 - [Instagram](https://instagram.com/diburov)
 - [Website](https://dburov.com)
 
