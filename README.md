@@ -1,6 +1,6 @@
-# Hi there! <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/hi.gif" width="30px"> I'm Dmitry, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="80" /></a>
+# Hi! <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/hi.gif" width="30px"> I'm Dmitriy, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="80" /></a>
 
-Hey guys, welcome to my GitHub profile!<br>
+Welcome to my GitHub profile!<br>
 I'm [Dmitry Burov](https://dburov.com/?from=github) &ndash; experienced and result-oriented **Full Stack Engineer** from Russia (Moscow).
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
