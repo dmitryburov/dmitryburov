@@ -1,4 +1,4 @@
-# Hi! <img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/hi.gif" width="30px"> I'm Dmitry, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="80" /></a>
+# Hi! I'm Dmitry, happy to see you here! <a href="https://dburov.com/?from=github" target="_blank"><img src="https://raw.githubusercontent.com/dmitryburov/dmitryburov/master/media/db_logo.png" align="right" width="80" /></a>
 
 Welcome to my GitHub profile!<br>
 I'm [Dmitry Burov](https://dburov.com/?from=github) &ndash; experienced and result-oriented **Full Stack Engineer** from Russia (Moscow).
