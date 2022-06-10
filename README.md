@@ -25,7 +25,6 @@ Open to business contacts and new acquaintances =)
 - [Instagram](https://instagram.com/diburov)
 - [Website](https://dburov.com)
 
-
 ### My stack 🚀
 
 [![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
