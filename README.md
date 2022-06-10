@@ -15,7 +15,7 @@ Open to business contacts and new acquaintances =)
 :muscle: &nbsp; I'm learning Algorithms, Clean Architecture & DDD principles<br>
 :handshake: &nbsp; I'm looking to collaborate on Open Source projects<br>
 :thought_balloon: &nbsp; Ask me about anything related to tech, I would love to share my thoughts<br>
-:zap: &nbsp; Fun fact: I am love snowboarding & photography
+:zap: &nbsp; Fun fact: I am love snowboarding
 
 ### Let's talk more:
 
@@ -48,7 +48,6 @@ Open to business contacts and new acquaintances =)
 [![rabbitmq](https://img.shields.io/badge/RabbitMQ-ffffff?style=for-the-badge&logo=rabbitmq&color=FF6600&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&color=333333&logoColor=ffffff)](#)
 [![ELK](https://img.shields.io/badge/ELK-ffffff?style=for-the-badge&logo=elasticsearch&color=0077cc&logoColor=white)](#)
-[![ALGOLIA](https://img.shields.io/badge/ALGOLIA-ffffff?style=for-the-badge&logo=algolia&color=5468ff&logoColor=ffffff)](#)
 [![GQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&color=ff7bd4&logoColor=ffffff)](#)
 
 <div align="center">
