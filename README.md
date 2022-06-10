@@ -26,7 +26,7 @@ Open to business contacts and new acquaintances =)
 - [Website](https://dburov.com)
 
 
-## My stack 🚀
+### My stack 🚀
 
 [![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
 [![PHP](https://img.shields.io/badge/PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white&color=777BB4)](#)
