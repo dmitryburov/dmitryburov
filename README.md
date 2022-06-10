@@ -6,6 +6,7 @@ I'm [Dmitry Burov](https://dburov.com/?from=github) &ndash; experienced and resu
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 ### About me
+
 I have experience in developing web services, applications, microservices, e-commerce and highload projects.<br>
 **Golang** is my favorite language!<br>
 I devote time not only to work, but also to learning new languages, technologies, attending conferences (participation) and technical literature.
@@ -26,6 +27,7 @@ Open to business contacts and new acquaintances =)
 
 
 ## My stack 🚀
+
 [![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
 [![PHP](https://img.shields.io/badge/PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white&color=777BB4)](#)
 [![VUE](https://img.shields.io/badge/VueJS-FF2D20?style=for-the-badge&logo=vuedotjs&logoColor=white&color=4fc08d)](#)
