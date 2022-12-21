@@ -13,7 +13,7 @@ I devote time not only to work, but also to learning new languages, technologies
 Open to business contacts and new acquaintances =)
 
 :man_technologist: &nbsp; I’m currently working on B2B Sales Platform<br>
-:muscle: &nbsp; I'm learning Clean Architecture & DDD principles<br>
+:muscle: &nbsp; I'm learning Golang patterns & Concurrency patterns<br>
 :handshake: &nbsp; I'm looking to collaborate on Open Source projects<br>
 :thought_balloon: &nbsp; Ask me about anything related to tech, I would love to share my thoughts<br>
 :zap: &nbsp; Fun fact: I am love snowboarding
