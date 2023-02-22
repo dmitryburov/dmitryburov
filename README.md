@@ -12,7 +12,6 @@ I have experience in developing web services, applications, microservices, e-com
 I devote time not only to work, but also to learning new languages, technologies, attending conferences (participation) and technical literature.
 Open to business contacts and new acquaintances =)
 
-:man_technologist: &nbsp; I’m currently working on B2B Sales Platform<br>
 :muscle: &nbsp; I'm learning DDD, TDD, Concurrency patterns<br>
 :handshake: &nbsp; I'm looking to collaborate on Open Source projects<br>
 :thought_balloon: &nbsp; Ask me about anything related to tech, I would love to share my thoughts<br>
