@@ -49,8 +49,3 @@ Open to business contacts and new acquaintances =)
 [![npm](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&color=333333&logoColor=ffffff)](#)
 [![ELK](https://img.shields.io/badge/ELK-ffffff?style=for-the-badge&logo=elasticsearch&color=0077cc&logoColor=white)](#)
 [![GQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&color=ff7bd4&logoColor=ffffff)](#)
-
-<div align="center">
-<a href="#"><img width="370px" src="https://github-readme-stats.vercel.app/api?username=dmitryburov&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" /></a>
-<a href="#"><img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitryburov&background=00000000&hide_border=true&stroke=878787&ring=58a6fe&fire=58a6fe&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /></a><br>
-</div>
