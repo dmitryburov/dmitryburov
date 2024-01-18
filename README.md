@@ -12,7 +12,7 @@ I have experience in developing web services, applications, microservices, e-com
 I devote time not only to work, but also to learning new languages, technologies, attending conferences (participation) and technical literature.
 Open to business contacts and new acquaintances =)
 
-:muscle: &nbsp; I'm learning DDD, TDD<br>
+:muscle: &nbsp; I'm learning Software Architecture and solutions<br>
 :handshake: &nbsp; I'm looking to collaborate on Open Source projects<br>
 :thought_balloon: &nbsp; Ask me about anything related to tech, I would love to share my thoughts<br>
 :zap: &nbsp; Fun fact: I am love snowboarding
